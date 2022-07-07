@@ -8,4 +8,4 @@
 - kullanılan dil basit İngilizcedir denilebilr.Teste Dayalı Geliştirmede kullanılan dil, programlama diline benzer.
 
 - ## Unit Test nedir? Unit Test nasıl yapılır?
-Birim testi , bir uygulamanın işlevler, sınıflar, prosedürler, arayüzler gibi test edilebilir. Birim testi, kullanıma uygun olup olmadıklarını belirlemek için kaynak kodun ayrı birimlerinin test edildiği bir yöntemdir.Birim testinin yürütülmesi için Beyaz Kutu Testi yöntemi kullanılır. Ünitenin test etmesi için verilerin hazırlandığı yeri düzenlenmeldir.Birimin çağrıldığı ve yanıtın günlüğe kaydedildiği eylem gerçekleştirilir. Assert, testin büyük kısmının gerçekleştiği yerdir.
+    Birim testi , bir uygulamanın işlevler, sınıflar, prosedürler, arayüzler gibi test edilebilir. Birim testi, kullanıma uygun olup olmadıklarını belirlemek için kaynak   kodun ayrı birimlerinin test edildiği bir yöntemdir.Birim testinin yürütülmesi için Beyaz Kutu Testi yöntemi kullanılır. Ünitenin test etmesi için verilerin  hazırlandığı yeri düzenlenmeldir.Birimin çağrıldığı ve yanıtın günlüğe kaydedildiği eylem gerçekleştirilir. Assert, testin büyük kısmının gerçekleştiği yerdir.
